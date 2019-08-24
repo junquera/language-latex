@@ -102,6 +102,9 @@
   'inline math - \\(\\)':
     'prefix': 'inline'
     'body': '\\\\($1\\\\)$0'
+  'verbatim':
+    'prefix': 'verb'
+    'body': '\\\\verb|$1|'
 
 # math, taken from  https://github.com/SublimeText/LaTeXTools/blob/master/LaTeX%20math.sublime-completions
 '.text.tex.latex .string.other.math':

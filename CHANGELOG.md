@@ -12,7 +12,7 @@ based on http://keepachangelog.com/en/1.0.0/
 ### Added
 - Source text for preview image ([#195](https://github.com/area/language-latex/pull/195)).
 - Support for `\regexp{...}` command ([#196](https://github.com/area/language-latex/pull/196)).
-
+- Support for `\verb|...|`, the inline code command ([]()).
 
 ## [1.2.0] - 2018-09-23
 ### Added
